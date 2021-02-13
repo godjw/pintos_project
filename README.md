@@ -1,10 +1,6 @@
 # pintos_prj
 Sogang University CSE4070 Operating Systems Pintos Project 
 
-## Project 0
- 
-<hr/>
-
 ## Project 1
 <br>
 Parse Argument and push it into the esp stack. <br>
